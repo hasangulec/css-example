@@ -1,0 +1,20 @@
+.center{
+	text-align:center;
+}
+.product-list{
+	width: 100px;
+    margin: 0 auto;
+}
+body{
+	background-color:khaki;
+	font-family:"Comic Sans Ms"
+}
+h2{
+	color:blue;
+}
+h1{
+	color:red;
+}
+.alt-baslik{
+	color:green;
+}
